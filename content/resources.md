@@ -17,13 +17,13 @@ title: "Resources"
             - [Cambridge Dictionary](https://dictionary.cambridge.org/dictionary/)
             - [Phase Bank](http://www.phrasebank.manchester.ac.uk/writing-definitions/)
     - Recommended Tools for Research
-            - Vector Graph Editor: Adobe Illustrator / [Inkscape](https://inkscape.org/) / Microsoft Powerpoint
-            - Chart Generator: [Origin](https://www.originlab.com/) / Python ([Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)) / Matlab / Prism / Excel
-            - Timing Diagram Generator: [WaveDrom](https://wavedrom.com/)
-            - UML Editor: [Violet](http://alexdp.free.fr/violetumleditor/page.php)
-            - Video Editor: [kdenlive](https://kdenlive.org/)
-            - Code Editor: [VScode](https://code.visualstudio.com/) / [Vim](https://www.vim.org/about.php) / [Emacs](https://www.gnu.org/software/emacs/)
-            - Latex IDE: [Overleaf](https://www.overleaf.com/) / [Texstudio](https://www.texstudio.org/) / [Texmaker](https://www.xm1math.net/texmaker/)
+        - Vector Graph Editor: Adobe Illustrator / [Inkscape](https://inkscape.org/) / Microsoft Powerpoint
+        - Chart Generator: [Origin](https://www.originlab.com/) / Python ([Matplotlib](https://matplotlib.org/), [Seaborn](https://seaborn.pydata.org/)) / Matlab / Prism / Excel
+        - Timing Diagram Generator: [WaveDrom](https://wavedrom.com/)
+        - UML Editor: [Violet](http://alexdp.free.fr/violetumleditor/page.php)
+        - Video Editor: [kdenlive](https://kdenlive.org/)
+        - Code Editor: [VScode](https://code.visualstudio.com/) / [Vim](https://www.vim.org/about.php) / [Emacs](https://www.gnu.org/software/emacs/)
+        - Latex IDE: [Overleaf](https://www.overleaf.com/) / [Texstudio](https://www.texstudio.org/) / [Texmaker](https://www.xm1math.net/texmaker/)
 - [EDA Toolkit Tutorials](XXX)
 
 ### >*Fun Videos*
