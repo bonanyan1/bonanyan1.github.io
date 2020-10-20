@@ -1,3 +1,79 @@
-baseURL = "http://example.org/"
+baseURL = "http://b-y.cyou/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Bonan Yan"
+theme = "minimal"
+# disqusShortname = "username" # delete this to disable disqus comments
+# googleAnalytics = ""
+
+[params]
+    author = "Bonan Yan"
+    description = """\nAssistant Professor
+    \nInstitute of Artificial Intelligence
+    \nPeking University"""
+    githubUsername = "BonanYan"
+    accent = "red"
+    showBorder = true
+    backgroundColor = "white"
+    font = "Rubik" # should match the name on Google Fonts!
+    highlight = true
+    highlightStyle = "default"
+    highlightLanguages = ["go", "haskell", "kotlin", "scala", "swift", "python"]
+
+[[menu.main]]
+    url = "/"
+    name = "Home"
+    weight = 1
+
+[[menu.main]]
+    url = "/bio/"
+    name = "Me"
+    weight = 2
+
+[[menu.main]]
+    url = "/research/"
+    name = "Research"
+    weight = 3
+
+[[menu.main]]
+    url = "/courses/"
+    name = "Courses"
+    weight = 4
+
+[[menu.main]]
+    url = "/students/"
+    name = "Students"
+    weight = 5
+
+[[menu.main]]
+    url = "/resources/"
+    name = "Resources"
+    weight = 6
+
+# Social icons to be shown on the right-hand side of the navigation bar.
+# The "name" field should match the name of the icon in Font Awesome.
+# The list of available icons can be found at http://fontawesome.io/icons.
+
+[[menu.icon]]
+    url = "mailto:bonanyan@pku.edu.cn"
+    name = "envelope-o"
+    weight = 1
+
+[[menu.icon]]
+    url = "https://scholar.google.com/citations?user=oN9gwMIAAAAJ&hl=en"
+    name = "graduation-cap"
+    weight = 2
+
+[[menu.icon]]
+    url = "https://github.com/BonanYan/"
+    name = "github"
+    weight = 3
+
+[[menu.icon]]
+    url = "https://www.linkedin.com/in/bonan-yan/"
+    name = "linkedin"
+    weight = 4
+
+[[menu.icon]]
+    url = "https://dblp.uni-trier.de/pid/161/0839.html"
+    name = "code"
+    weight = 5

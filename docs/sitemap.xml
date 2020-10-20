@@ -3,15 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.com/categories/</loc>
+    <loc>http://b-y.cyou/bio/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/</loc>
+    <loc>http://b-y.cyou/</loc>
   </url>
   
   <url>
-    <loc>http://example.com/tags/</loc>
+    <loc>http://b-y.cyou/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>http://b-y.cyou/courses/</loc>
+  </url>
+  
+  <url>
+    <loc>http://b-y.cyou/research/</loc>
+  </url>
+  
+  <url>
+    <loc>http://b-y.cyou/resources/</loc>
+  </url>
+  
+  <url>
+    <loc>http://b-y.cyou/students/</loc>
+  </url>
+  
+  <url>
+    <loc>http://b-y.cyou/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>http://b-y.cyou/youandyourresearch/</loc>
   </url>
   
 </urlset>
