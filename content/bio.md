@@ -11,3 +11,7 @@ Please contact me via:
 - Email: [bonanyan AT pku DOT edu DOT cn](mailto@bonanyan@pku.edu.cn)
 - Linkedin: [Bonan Yan](https://www.linkedin.com/in/bonan-yan/)
 - Wechat
+
+---
+
+The website powered by [Hugo](https://gohugo.io) and [Minimal](https://github.com/calintat/minimal).
