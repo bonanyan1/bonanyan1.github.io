@@ -1,4 +1,5 @@
-baseURL = "http://b-y.cyou/"
+# baseURL = "http://b-y.cyou/"
+baseURL = "bonanyan1.github.io"
 languageCode = "en-us"
 title = "Bonan Yan"
 theme = "minimal"
